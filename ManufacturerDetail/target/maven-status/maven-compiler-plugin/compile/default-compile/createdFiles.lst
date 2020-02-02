@@ -1,0 +1,4 @@
+com\example\ManufacturerDetail\Configuration\config.class
+com\example\ManufacturerDetail\ManufacturerDetailApplication.class
+com\example\ManufacturerDetail\HomeController\HomeController.class
+com\example\ManufacturerDetail\Model\Manufacturer.class
